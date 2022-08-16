@@ -1,0 +1,17 @@
+body 
+{
+  font-family: system-ui;
+  background: #cccccc;
+  color: black;
+  text-align: center;
+}
+h1
+{font-size: 35px}
+
+p{font-size: 30px}
+
+em strong 
+{color: red}
+
+#Barbearia
+{width= 100%}
